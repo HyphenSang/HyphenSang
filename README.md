@@ -49,21 +49,16 @@
 
 ###
 
-<h3 align="left">📈 Github Stats</h3>
+<!-- <h3 align="left">📈 Github Stats</h3>
 <p align="left">Here are some cool projects I've worked on: </p>
 
   - 🌐 [Slayla_Web](https://github.com/HyphenSang/Slayla_Boutique): An Ecommerce Website
   
-  - 📱 [Daily_Tracker](https://github.com/HyphenSang/Daily_Tracker): An Daily Task Tracking
-
+  - 📱 [Daily_Tracker](https://github.com/HyphenSang/Daily_Tracker): An Daily Task Tracking -->
 
 ###
 
-<br/>
- 
-###
-
-<h3 align="center">
+<!-- <h3 align="center">
   📊 GitHub Contribution Calendar
 </h3>
 
@@ -75,14 +70,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HyphenSang/HyphenSang/output/pacman-contribution-graph.svg">
     <img alt="pacman generator game" src="https://raw.githubusercontent.com/HyphenSang/HyphenSang/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-<!-- <div align="center">
-  <img style="50%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div> -->
 
-###
-
-<br/>
+<div align="center">
+  <img style="50%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
